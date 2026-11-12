@@ -1,0 +1,2 @@
+First commit for squash
+Second commit for squash
