@@ -1,1 +1,2 @@
 First line: Hello GitHub PR
+Second line: Learning merge commit
